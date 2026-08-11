@@ -42,7 +42,8 @@ Ensure you have the following installed:
 ## 🔧 Quick Start
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Uzelac97/ai-subtitle-generator.git
+
+```bash
+git clone https://github.com/Uzelac97/ai-subtitle-generator.git
 cd ai-subtitle-generator
-   ```
+```
