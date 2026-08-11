@@ -1,6 +1,6 @@
 # 🎬 AI-Powered Shorts Subtitle Generator
 
-An automated Python tool that generates **word-level SRT subtitles** for short-form video content (YouTube Shorts, TikTok, Reels).
+An automated Python tool that generates **word-level SRT subtitles** for short-form video content (YouTube Shorts, TikTok, Reels). Fully containerized with Docker for portable, one-command deployment.
 
 ## 🚀 Project Overview
 
@@ -11,6 +11,7 @@ This project demonstrates my ability to:
 - **Automate Workflows:** Turning a 1-hour manual task into a 10-second script.
 - **Integrate AI Models:** Using OpenAI's Whisper for high-accuracy speech-to-text.
 - **Process Media:** Leveraging FFmpeg for signal processing and audio conversion.
+- **Containerize Applications:** Packaging the entire tool with Docker for consistent, portable deployment across environments.
 
 ---
 
@@ -42,6 +43,6 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Uzelac97/Shorts-Subtitle-Generator.git](https://github.com/Uzelac97/Shorts-Subtitle-Generator.git)
-   cd Shorts-Subtitle-Generator
+   git clone https://github.com/Uzelac97/ai-subtitle-generator.git
+cd ai-subtitle-generator
    ```
