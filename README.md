@@ -8,7 +8,7 @@ I built this tool while learning **Python** to solve a real-world problem. My wi
 
 This project demonstrates my ability to:
 
-- **Automate Workflows:** Turning a 1-hour manual task into a 10-second script.
+- **Automate Workflows:** Turning hours of manual subtitling into a one-click script.
 - **Integrate AI Models:** Using OpenAI's Whisper for high-accuracy speech-to-text.
 - **Process Media:** Leveraging FFmpeg for signal processing and audio conversion.
 - **Containerize Applications:** Packaging the entire tool with Docker for consistent, portable deployment across environments.
